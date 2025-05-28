@@ -8,7 +8,15 @@
 int main() {
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
-
+int ataque1 = 30
+int ataque2 = 60    
+int populacao = 10000
+float area = 30.2
+int pib = 50 
+    printf("Digite o código da cidade 1:\n")
+    scanf("%s", &codigo1);
+    printf("Digite o código da cidade 2:\n")
+    scanf("%s", &codigo2);
     
     // Cadastro das Cartas:
     // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
